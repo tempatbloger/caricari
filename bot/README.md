@@ -21,3 +21,17 @@ CariCariBot V2 adalah mesin perayap web (web crawler) modular yang dirancang unt
 ├── mass_crawl.php      # Eksekutor utama bot
 ├── import_to_db.php    # Importir JSON ke SQL
 └── index.php           # Dashboard Control Center (UI)
+
+
+---
+
+### Mengapa README ini penting?
+1. **Dokumentasi**: Anda tidak akan lupa cara menjalankan bot ini 6 bulan ke depan.
+2. **Portofolio**: Orang yang melihat GitHub Anda akan langsung paham bahwa Anda mengerti konsep *System Design* (memisahkan antrean dengan penyimpanan utama).
+
+
+
+### Apa langkah kita selanjutnya?
+Setelah README ini siap, mari kita **"Re-write"** atau rapihkan kode-kode sebelumnya menjadi versi "Production Ready" yang lebih bersih sebelum Anda *push* ke GitHub.
+
+Kita akan mulai dengan memperbaiki **`config_bot.php`** agar lebih aman atau langsung ke **`mass_crawl.php`** versi final?
